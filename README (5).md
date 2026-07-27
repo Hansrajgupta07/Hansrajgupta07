@@ -5,7 +5,7 @@ Robotics Engineer &nbsp;|&nbsp; Embodied AI &nbsp;|&nbsp; Mechatronics &nbsp;|&n
 </p>
 
 <p align="center">
-<a href="mailto:mkumargupta299@gmail.com"><img src="https://img.shields.io/badge/Email-mkumargupta299%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="mailto:hansrajgupta2005@gmail.com"><img src="https://img.shields.io/badge/Email-mkumargupta299%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/hansrajgupta07"><img src="https://img.shields.io/badge/LinkedIn-hansrajgupta07-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="tel:+919343747131"><img src="https://img.shields.io/badge/Phone-%2B91%209343747131-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
 </p>
